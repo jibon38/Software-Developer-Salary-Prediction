@@ -1,0 +1,7 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sat Apr 23 02:59:24 2022
+@author: User
+"""
+
+web: gunicorn app:app
